@@ -7,9 +7,7 @@ const App = () => {
   };
   const d = () => {
     if (value <= 0) {
-      {
         alert("LIMIT TO 0");
-      }
       setvalue(value);
     } else {
       setvalue(value - 1);
