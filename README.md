@@ -1,4 +1,4 @@
 
-Increment & Decrement Counter
--> Min-Value= 0;
--> Hover effect
+## Increment & Decrement Counter <br/>
+-> Min-Value= 0; <br/>
+-> Hover & Click effect
